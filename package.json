@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "debug": "^4.3.6",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "passport": "^0.7.0",
+    "passport-github2": "^0.1.12",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-linkedin-oauth2": "^2.0.0"
+  },
+  "name": "google-oauth",
+  "description": "This guide will walk you through setting up Google Authentication in a Node.js application using Passport.js.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
